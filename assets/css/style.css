@@ -829,6 +829,10 @@ main {
   line-height: 1.6;
 }
 
+.custom-bullet {
+  list-style-type: disc; /* Use 'disc' for filled circles */
+  padding-left: 20px; /* Adjust the indentation as needed */
+}
 
 /**
  * skills 
